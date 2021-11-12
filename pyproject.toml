@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "animecal"
-version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+name = "freeepicgames"
+version = "1.0.0"
+description = "Know when Epic Megagames is offering a nice deal."
+authors = ["Kyle Williams <kyle.anthony.williams2@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
