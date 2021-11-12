@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block main %}
+<h1>Free Epic Games Calendar</h1>
+<p>
+	Go to
+	<a {{ {"href": url_for("views.cal")} | xmlattr }}>the calendar</a>.
+</p>
+{% endblock %}
